@@ -18,6 +18,11 @@ R: Projeto foi todo realizado em fase de estudo manualmente depois incrementado 
 
 
 # Pre requisitos
+ 
+- Criacao do projeto no openshift com nome de rm340569
 
-R: Criacao do projeto no openshift com nome de rm340569
+- Instalacao do openshift client para execucao da automatizacao de infra (para mac rodar o comando `brew install openshift-client`)
 
+# Como rodar ?
+
+R: Executar o comando através do client openshift (previamente configurado) `oc apply -k ./<diretorio_raiz_repositorio>` (ex.: `oc apply -k ./fiap-7asoo-entregavel`).
