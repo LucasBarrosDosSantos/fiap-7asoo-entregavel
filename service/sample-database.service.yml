@@ -2,7 +2,7 @@ kind: Service
 apiVersion: v1
 metadata:
   name: sample-database-service
-  namespace: RM340569
+  namespace: rm340569
   labels:
     app: sample-database-service
 spec:

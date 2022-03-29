@@ -2,7 +2,7 @@ kind: PersistentVolumeClaim
 apiVersion: v1
 metadata:
   name: sample-database
-  namespace: RM340569
+  namespace: rm340569
 spec:
   accessModes:
     - ReadWriteOnce

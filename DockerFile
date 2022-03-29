@@ -7,7 +7,7 @@ LABEL description="A custom Apache container based on UBI 8"
 RUN yum install -y httpd && \
     yum clean all
 
-RUN echo "Entregável RM340569" > /var/www/html/index.html
+RUN echo "Entregável rm340569" > /var/www/html/index.html
 
 EXPOSE 80
 

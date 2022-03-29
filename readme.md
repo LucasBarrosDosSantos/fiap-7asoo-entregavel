@@ -19,5 +19,5 @@ R: Projeto foi todo realizado em fase de estudo manualmente depois incrementado 
 
 # Pre requisitos
 
-R: Criacao do projeto no openshift com nome de RM340569
+R: Criacao do projeto no openshift com nome de rm340569
 
